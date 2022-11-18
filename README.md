@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Guilherme Hiancki Monteiro!</h1>
+<h1 align="center">👋 Olá, Eu sou Guilherme Hiancki Monteiro!</h1>
 <h3 align="center">Designer, Mercadólogo, Historiador e Aprendiz de DEV</h3>
 
 - 🌱 Estou aprendendo **Python, HTML e CSS.**

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme H. Monteiro</h1>
-<h3 align="center">Designer, Marketeiro, Historiador e Aprendiz de DEV</h3>
+<h3 align="center">Designer, Mercadólogo, Historiador e Aprendiz de DEV</h3>
 
 - 🌱 Estou aprendendo **Python, HTML e CSS.**
 
